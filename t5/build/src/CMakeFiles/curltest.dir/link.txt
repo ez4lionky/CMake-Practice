@@ -1,0 +1,1 @@
+/usr/bin/cc   -rdynamic CMakeFiles/curltest.dir/main.o  -o curltest  -L/home/linux/anacnoda3/lib -Wl,-rpath,/home/linux/anacnoda3/lib -lcurl 

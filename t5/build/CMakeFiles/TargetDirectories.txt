@@ -1,0 +1,4 @@
+/backup/cmake/t5/build/CMakeFiles/rebuild_cache.dir
+/backup/cmake/t5/build/CMakeFiles/edit_cache.dir
+/backup/cmake/t5/build/src/CMakeFiles/rebuild_cache.dir
+/backup/cmake/t5/build/src/CMakeFiles/edit_cache.dir
